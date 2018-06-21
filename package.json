@@ -1,0 +1,23 @@
+{
+  "name": "angular-injectable",
+  "version": "1.0.0",
+  "description": "Helpers to make working with angularjs and es6 easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyjat/angular-injectable.git"
+  },
+  "keywords": [
+    "angularjs",
+    "es6"
+  ],
+  "author": "Jeff Tillwick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crazyjat/angular-injectable/issues"
+  },
+  "homepage": "https://github.com/crazyjat/angular-injectable#readme"
+}
